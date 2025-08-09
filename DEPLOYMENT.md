@@ -4,7 +4,7 @@ This guide will help you deploy TradeX to Render, a modern cloud platform for ho
 
 ## 🚀 Quick Deployment Summary
 
-**Build Command:** `npm install && npm run build`  
+**Build Command:** `npm ci && npm run build`  
 **Start Command:** `npm start`  
 **Node Version:** 18  
 **Port:** Dynamic (uses `$PORT` environment variable)
